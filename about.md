@@ -1,3 +1,3 @@
 layout: page
 title: "ABOUT"
-permalink: /
+permalink: /about/
